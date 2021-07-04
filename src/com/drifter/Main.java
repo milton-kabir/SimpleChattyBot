@@ -46,12 +46,11 @@ public class Main {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.\nWhy do we use methods?\n1. To repeat a statement multiple times.\n2. To decompose a program into several small subroutines.\n3. To determine the execution time of a program.\n4. To interrupt the execution of a program.");
-        while(true){
+        while (true) {
             int num = scanner.nextInt();
-            if(num==2){
+            if (num == 2) {
                 break;
-            }
-            else{
+            } else {
                 System.out.println("Please, try again.");
             }
         }
