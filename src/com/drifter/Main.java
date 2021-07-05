@@ -3,7 +3,6 @@ package com.drifter;
 import java.util.Scanner;
 
 public class Main {
-
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
@@ -54,7 +53,6 @@ public class Main {
                 System.out.println("Please, try again.");
             }
         }
-        // write your code here
     }
 
     static void end() {
