@@ -2,4 +2,4 @@
 out/
 SimpleChattyBot.iml
 .class
-.iml
+*.iml
